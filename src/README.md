@@ -6,7 +6,7 @@ title: 博客主页
 heroImage: https://theme-hope-assets.vuejs.press/logo.svg
 heroText: 孔智杰的博客
 heroFullScreen: true
-tagline: 你可以在这里放置你的口号与标语
+tagline: 使用编程给自己编写一套房子
 projects:
   - icon: project
     name: 项目名称
